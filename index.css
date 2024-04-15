@@ -34,7 +34,7 @@ h1{
 .elem2{
     margin: 10px;
     background: url("giphy.gif");
-    height: 60vh;
+    height: 50vh;
     width: 90vw;
     background-position:bottom;
 }
